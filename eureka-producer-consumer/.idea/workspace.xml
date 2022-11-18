@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="58d50429-43a6-45bd-9ce2-ea994299162d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Programing language\Maven\repository" />
+        <option name="mavenHome" value="D:/Programing language/apache-maven-3.8.4" />
+        <option name="showDialogWithAdvancedSettings" value="true" />
+        <option name="userSettingsFile" value="D:\Programing language\apache-maven-3.8.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-Dfile.encoding=GB2312" />
+  </component>
+  <component name="ProjectId" id="2Hf9iadKVYWaay5QkGCqBADcho8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="ExpandSpringBootSpringBootSettingsPanel" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-cloud-hystrix" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IDEA\SpringCloud\spring-cloud-examples\eureka-producer-consumer" />
+      <recent name="F:\IDEA\SpringCloud\spring-cloud-examples\eureka-producer-consumer\spring-cloud-eureka" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ProducerApplication">
+    <configuration name="ConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.neo.ConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-producer1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.neo.ProducerApplication1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudEurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.neo.SpringCloudEurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58d50429-43a6-45bd-9ce2-ea994299162d" name="Changes" comment="" />
+      <created>1668665398644</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668665398644</updated>
+      <workItem from="1668665399812" duration="2926000" />
+      <workItem from="1668669143686" duration="334000" />
+      <workItem from="1668669810145" duration="7000" />
+      <workItem from="1668669973427" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
